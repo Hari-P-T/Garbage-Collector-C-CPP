@@ -135,5 +135,5 @@ Distributed under the **MIT License**. See [`LICENSE`](LICENSE) for details.
 
 **Hari P T**  
 📧 [hariptlinux@gmail.com](mailto:hariptlinux@gmail.com)  
-🔗 [LinkedIn](https://in.linkedin.com/in/hari-p-t-5b585b253)  
+🔗 [LinkedIn](https://www.linkedin.com/in/hari-ponnusamy-5b585b253/)  
 📂 [Project Repo](https://github.com/Hari-P-T/Garbage-Collector-C-CPP)
